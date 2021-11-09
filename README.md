@@ -1,2 +1,2 @@
-# NPX_pipeline
-neuropixels analysis pipeline
+# dlab
+denman lab shared functions and repositories
